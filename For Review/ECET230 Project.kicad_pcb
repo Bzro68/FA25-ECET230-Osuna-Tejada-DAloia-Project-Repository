@@ -3490,7 +3490,7 @@
 		(uuid "5f0f88b4-f8fb-4a27-92e0-cf762187070f")
 		(at 96.675 102.056391 90)
 		(descr "HC-49-4H, Crystal, http://5hertz.com/pdfs/04404_D.pdf")
-		(property "Reference" "Y2"
+		(property "Reference" "Y3"
 			(at 2.5 3.5 90)
 			(layer "F.SilkS")
 			(uuid "9685b700-f175-4d2a-813e-3f1fdee6cea9")
@@ -3501,7 +3501,7 @@
 				)
 			)
 		)
-		(property "Value" "11.0592MHz"
+		(property "Value" "12MHz"
 			(at 2.44 3.52 90)
 			(layer "F.Fab")
 			(hide yes)
